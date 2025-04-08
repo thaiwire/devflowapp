@@ -14,6 +14,12 @@ export default function Home() {
       <Link href='/about'>
       <h1 className="h2-bold">About </h1>
       </Link>
+      <Link href='/about/ariyan'>
+      <h1 className="h2-bold">About Ariyan </h1>
+      </Link>
+      <Link href='/contact'>
+      <h1 className="h2-bold">Contact </h1>
+      </Link>
      
    </div>
   );
